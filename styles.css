@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+body {
+    text-align: center;
+}
+img {
+  
+  height:300px;
+}
+h1 {
+    margin:30px;
+}
+p {
+    margin:1px;
+}
+
+.red {
+    color: red;
+    font-family: 'Fredoka One', cursive;
+}
+.blue {
+    color: blue;
+    font-family: 'Josefin Slab', serif;
+}
+.green {
+    color: green;
+    font-family: 'Fugaz One', cursive;
+}
+.pink {
+    color: pink;
+    font-family: 'Sigmar One', cursive;
+}
+p{
+    font-size: 28px;
+}
+h1{
+    font-size: 45px;
+}
+body { 
+    background-image: url('http://masterkey.pl.ua/images/ies8.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
